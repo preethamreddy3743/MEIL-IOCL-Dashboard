@@ -12,4 +12,5 @@ The dashboard includes the following:
 
 
 
-  ![image](https://github.com/preethamreddy3743/MEIL-IOCL-Dashboard/assets/88039877/f4fb29d8-5794-46cc-a407-000f55e8a080)
+![image](https://github.com/preethamreddy3743/MEIL-IOCL-Dashboard/assets/88039877/52e83c0c-7135-4836-8639-30c621df972c)
+
